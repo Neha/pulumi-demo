@@ -1,0 +1,4 @@
+name: reactjs-deployment
+runtime: nodejs
+description: Deploying a html file app with Pulumi
+main: index.js

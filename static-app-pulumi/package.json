@@ -1,0 +1,19 @@
+{
+  "name": "static-app-pulumi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "pulumi up"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pulumi/aws": "^6.74.0",
+    "@pulumi/pulumi": "^3.159.0",
+    "dotenv": "^16.4.7",
+    "pulumi": "^0.0.1"
+  }
+}
